@@ -1,0 +1,77 @@
+.titulo{
+    color:white;
+    font-size: 70px;
+    font-weight: 600;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.titulo2{
+    color:rgb(0, 217, 255);
+    font-size: 45px;
+    font-family:Georgia, 'Times New Roman', Times, serif  ;
+}
+.parrafo{
+    color:darkgreen;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.parrafo2{
+    color:yellow;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.enlace{
+    background-color: rgb(194, 3, 3);
+    color:yellow;
+    font-size: 60px;
+    
+}
+.navegacion{
+    border-style: solid;
+    border-color:coral;
+    border-width: 0px;
+    margin: 20px 280px;
+    background-color:aquamarine;
+}
+
+.navegacion1{
+    border-style: solid;
+    border-color:coral;
+    border-width: 1px;
+    margin: 20px 60px;
+    background-color:aquamarine;
+}
+
+.navegacion ul{
+    list-style: none;
+
+}
+
+.menu >li{
+    display: inline-block;
+}
+
+.menu2 >li{
+    display: inline-block;  
+    padding: 2%;
+    font-size: 20px;
+}
+
+.menu>li>a{
+    text-decoration:aqua;
+    color:rgb(213, 253, 15);
+    padding: 25px ;
+}
+
+.menu2>li>a{
+    text-decoration:aqua;
+    color:white;
+    padding: 25px ;
+}
+
+.fondo{
+    background-image: url(https://www.orangesmile.com/extreme/img/main/san-rafael-falls_1.jpg);
+}
+
+.fondo1{
+    background-color: blue;
+}
